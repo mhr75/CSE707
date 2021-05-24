@@ -1,0 +1,11 @@
+Name: Mahmudul Haque
+ID: 20266034
+
+  
+### Extra course on AWS at coursera
+
+Building Modern Python Applications on AWS
+url: https://coursera.org/share/75cb91ad4415e56420fc78c3d84e1978
+
+### Extra seminar attended
+The HPC-AI Advisory Council webinar on 17th, March
